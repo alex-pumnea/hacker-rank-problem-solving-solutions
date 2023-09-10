@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.migratory_birds;
+package dev.pumnea.hackerrank.migratorybirds;
 
 import java.util.HashMap;
 import java.util.List;

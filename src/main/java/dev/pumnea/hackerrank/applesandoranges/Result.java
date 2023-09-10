@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.apples_and_oranges;
+package dev.pumnea.hackerrank.applesandoranges;
 
 import lombok.extern.slf4j.Slf4j;
 

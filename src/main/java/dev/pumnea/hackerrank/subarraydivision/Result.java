@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.subarray_division;
+package dev.pumnea.hackerrank.subarraydivision;
 
 import lombok.extern.slf4j.Slf4j;
 

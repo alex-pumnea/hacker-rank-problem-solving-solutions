@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.divisible_sum_pairs;
+package dev.pumnea.hackerrank.divisiblesumpairs;
 
 import lombok.extern.slf4j.Slf4j;
 

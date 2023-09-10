@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.number_line_jumps;
+package dev.pumnea.hackerrank.numberlinejumps;
 
 import lombok.extern.slf4j.Slf4j;
 

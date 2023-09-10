@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.breaking_the_records;
+package dev.pumnea.hackerrank.breakingtherecords;
 
 import lombok.extern.slf4j.Slf4j;
 

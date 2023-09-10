@@ -1,4 +1,4 @@
-package dev.pumnea.hacker_rank.between_two_sets;
+package dev.pumnea.hackerrank.betweentwosets;
 
 import java.util.List;
 
